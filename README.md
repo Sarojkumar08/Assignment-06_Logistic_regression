@@ -1,4 +1,4 @@
-# Assignment-06_Logistic_regressionin 
+# Assignment-06_Logistic_regression
 
 ###  Before load the data in python convert the dataset in a proper format in Excel.
 
